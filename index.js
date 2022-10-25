@@ -22,10 +22,14 @@ app.get("/courses", (req, res) => {
 
 app.get("/courses/:categorie", (req, res) => {
   const categorie = req.params.categorie;
-  const filterCourses = courses.filter(
-    (course) => course.categorie === categorie
-  );
-  res.send(filterCourses);
+  if (categorie === "all") {
+    res.send(courses);
+  } else {
+    const filterCourses = courses.filter(
+      (course) => course.categorie === categorie
+    );
+    res.send(filterCourses);
+  }
 });
 
 app.get("/course/:id", (req, res) => {
