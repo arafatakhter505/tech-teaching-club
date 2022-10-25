@@ -99,5 +99,25 @@
     ],
     "price": "$30",
     "ratings": "4.2"
+  },
+  {
+    "id": "4",
+    "categorie": "electronics",
+    "titel": "Introduction to Digital Electronics",
+    "img": "https://collegeacademy.in/images/ex-blogs/deld.jpg",
+    "des": "Digital electronics is essential to understanding the design and working of a wide range of applications, from consumer and industrial electronics to communications; from embedded systems, and computers to security and military equipment. As the devices used in these applications decrease in size and employ more complex technology, it is essential for engineers and students to fully understand both the fundamentals and also the implementation and application principles of digital electronics, devices and integrated circuits, thus enabling them to use the most appropriate and effective technique to suit their technical needs. Digital Electronics: in one volume, both the fundamentals of digital electronics and the applications of digital devices and integrated circuits. This Lecture Series is different from similar Lectures on the subject in more than one way. Each chapter in the course, whether it is related to operational fundamentals or applications, is amply illustrated with diagrams and design examples. In addition, the lectures cover several new topics, which are of relevance to any one having an interest in digital electronics While the course covers in entirety what is required by undergraduate and graduate level students of engineering in electrical, electronics, computer science and information technology disciplines, it is intended to be a very useful course for professionals, R&D scientists and students at post graduate level.",
+    "learn": [
+      "Number Systems.",
+      "Conversion of number systems",
+      "Arithmetic operations",
+      "Binary, decimal, octal, and hexadecimal numbers",
+      "Compliments of numbers ,"
+    ],
+    "requirments": [
+      "Candidate must have willingness and desire to learn the Digital Electronics to implement the knowledge in modern world."
+    ],
+    "topic_covered": [],
+    "price": "$20",
+    "ratings": "4.1"
   }
 ]
