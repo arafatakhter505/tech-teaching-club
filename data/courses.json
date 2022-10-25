@@ -1,0 +1,75 @@
+[
+  {
+    "id": "1",
+    "categorie": "programming",
+    "titel": "Object-Oriented Programming using C++",
+    "img": "https://lh6.googleusercontent.com/yPsibbUh1aHOvi0U3-wtdlNpWWutbyYULv1PLkx0QlOOq81DiXVvPgvKVrtY7Ef1yZF5NLabXrHBjHL80lx9hTqR_64jGRFZdbR9FIs4LDR9RcEn1M9LX_D5i4fYKR4vNZA-dZ9R",
+    "des": "In this course you will learn how to become a C++ Object-Oriented programmer by learning to do programming hands-on. This course is easy to understand and will take you from not knowing any C++ Object-Oriented Programming to becoming proficient in the C++ language. The terminology is simply to understand and taught in easy to understand plain English.You will walk through c++ source code, compile and run the examples to get a full understanding of the topics. This course is expected to take about a week (40 hours) to complete if you go through the entire examples.The lectures are structures in a step-by-step fashion to make the concept easily understandable with solid examples.You should take this course to help you learn one of the hottest programming languages in use today in industry.",
+    "learn": [
+      "Learn the C++ Object Oriented Programming language step-by-step.",
+      "Learn to program with hands-on approach.",
+      "Quickly master key topics such as: Objects, Classes, Polymorphism & Inheritance.",
+      "Easy to follow lectures: Theory quickly followed with real examples that run!"
+    ],
+    "requirments": [
+      "No pre-requisites. This is your first course. Bring an open mind and have fun.",
+      "Just have a Windows, Linux or Apple's Mac OS machine to do the examples yourself so you can learn quickly."
+    ],
+    "topic_covered": [
+      "Classes",
+      "Objects",
+      "Inheritance",
+      "Polymorphism",
+      "Intro. to Programming in C",
+      "Installation of a C Compiler",
+      "Variables",
+      "Arrays",
+      "Vectors",
+      "Constants",
+      "Arithmetic Operators",
+      "Value Assignments",
+      "Control Structures",
+      "For loops",
+      "While loops",
+      "Do…while loops,",
+      "Switch & break statements.",
+      "Functions"
+    ],
+    "price": "$50",
+    "ratings": "4.5"
+  },
+  {
+    "id": "2",
+    "categorie": "programming",
+    "titel": "Python Programming",
+    "img": "https://contentstatic.techgig.com/thumb/msid-79386213,width-460,resizemode-4/5-Myths-around-Python-programming-language-that-every-programmer-must-know.jpg?88712",
+    "des": "In this course you will learn how to become a C++ Object-Oriented programmer by learning to do programming hands-on. This course is easy to understand and will take you from not knowing any C++ Object-Oriented Programming to becoming proficient in the C++ language. The terminology is simply to understand and taught in easy to understand plain English.You will walk through c++ source code, compile and run the examples to get a full understanding of the topics. This course is expected to take about a week (40 hours) to complete if you go through the entire examples.The lectures are structures in a step-by-step fashion to make the concept easily understandable with solid examples.You should take this course to help you learn one of the hottest programming languages in use today in industry.",
+    "learn": [
+      "From foundations to expert, learn about every major Python topic, working with Python 3.",
+      "Master Object-Oriented Programming and structure your Python programs like a professional.",
+      "Automate extracting data from websites using web scraping libraries like BeautifulSoup and Selenium.",
+      "Interact with REST APIs using Python and build a currency converter!"
+    ],
+    "requirments": [
+      "Access to a computer with an internet connection. Everything else we use in the course is publicly available and we'll guide you through getting it.",
+      "There are no other requirements, besides getting started!"
+    ],
+    "topic_covered": [
+      "Command Line Basics",
+      "Installing Python",
+      "Running Python Code",
+      "Strings and Numbers",
+      "String Formatting",
+      "Lists, Dictionaries, Tuples, and Sets",
+      "Functions and lambdas",
+      "Decorators",
+      "Scope",
+      "args/kwargs and default parameter values",
+      "The concept of mutability",
+      "Built-in Functions",
+      "Debugging and Error Handling"
+    ],
+    "price": "$60",
+    "ratings": "4.8"
+  }
+]

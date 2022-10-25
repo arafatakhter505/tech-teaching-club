@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Programming",
+    "slug": "programming"
+  },
+  {
+    "id": "2",
+    "name": "Hardware",
+    "slug": "hardware"
+  },
+  {
+    "id": "3",
+    "name": "Electronics",
+    "slug": "electronics"
+  },
+  {
+    "id": "4",
+    "name": "Multimedia",
+    "slug": "multimedia"
+  },
+  {
+    "id": "5",
+    "name": "Networking",
+    "slug": "networking"
+  },
+  {
+    "id": "6",
+    "name": "All Categories",
+    "slug": "all"
+  }
+]
