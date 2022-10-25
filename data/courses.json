@@ -43,7 +43,7 @@
     "categorie": "programming",
     "titel": "Python Programming",
     "img": "https://contentstatic.techgig.com/thumb/msid-79386213,width-460,resizemode-4/5-Myths-around-Python-programming-language-that-every-programmer-must-know.jpg?88712",
-    "des": "In this course you will learn how to become a C++ Object-Oriented programmer by learning to do programming hands-on. This course is easy to understand and will take you from not knowing any C++ Object-Oriented Programming to becoming proficient in the C++ language. The terminology is simply to understand and taught in easy to understand plain English.You will walk through c++ source code, compile and run the examples to get a full understanding of the topics. This course is expected to take about a week (40 hours) to complete if you go through the entire examples.The lectures are structures in a step-by-step fashion to make the concept easily understandable with solid examples.You should take this course to help you learn one of the hottest programming languages in use today in industry.",
+    "des": "Welcome to the Complete Python Course! Learn Python from a software developer. If you want to master Python and write efficient, elegant, and simple code, this is the course you've been looking for! Even if you have no programming experience, this course will give you a super-strong foundation and teach you how to use Python to achieve any goal.We've crafted every piece of content to be concise and straightforward, while never leaving you confused:Hundreds of code-along videos with in-depth explanations, Dozens of presentations with animated diagrams, Quizzes, Coding exercises, Python projects for you to learn to make real Python applications",
     "learn": [
       "From foundations to expert, learn about every major Python topic, working with Python 3.",
       "Master Object-Oriented Programming and structure your Python programs like a professional.",
@@ -71,5 +71,33 @@
     ],
     "price": "$60",
     "ratings": "4.8"
+  },
+  {
+    "id": "3",
+    "categorie": "hardware",
+    "titel": "Computer Engineering & Hardware",
+    "img": "https://scholarshipguidance.com/wage-detail-images/526/what-skills-should-a-computer-hardware-engineer-have.jpg",
+    "des": "Course on the fundamentals of computer engineering and information technology. Course on the fundamentals of computer engineering and information technology Information Technology Information Technology Information Technology Information Technology Information Technology Information Technology Information Technology Intensive discussion of the fundamentals of computer engineering is found in the computer engineering is integrated with the electronic are electrical engineering and computer science courses that are closely related to the hardware and software of computers that are both of Technology is working together to develop Software and Hardware related Technologies. Computer engineering Information Technology fundamentals tutorial. Course on the fundamentals of computer engineering and information technology Computer Science and Engineering Architecture of the Computer. The fundamentals of computer engineering organization and architecture are covered in detail. It is our responsibility to learn about the fundamentals of computer engineering, organization, and architecture in computer engineering, which will assist you in learning about the fundamentals of computer engineering in computer engineering responsibility to learn about the hardware related Technologies which will assist you in learning about the all aspects of information technology and computer science and Electronic Engineering which is our responsibility to learn about that these Technologies and export.",
+    "learn": [
+      "Computer Engineering",
+      "Operating Systems and IT",
+      "Computer Engineering IT Fundamentals organization",
+      "Computer Hardware"
+    ],
+    "requirments": ["Computer basic Knowledge"],
+    "topic_covered": [
+      "Components of a Computer Should Be Recognized",
+      "Learn about the many computer types that exist today.",
+      "Purchase the Most Perfect Computers - Computer Purchasing Guidelines",
+      "Learn about the Desktop Components and how they work.",
+      "Recognize the pros and disadvantages of having everything in one place.",
+      "Understand the Concepts of a Laptop",
+      "Learn Everything About Windows 10",
+      "Learn how to install Windows 10 on your computer.",
+      "Maintenance and troubleshooting for the Windows 10 operating system",
+      "Virus on the computer"
+    ],
+    "price": "$30",
+    "ratings": "4.2"
   }
 ]
