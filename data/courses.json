@@ -140,5 +140,24 @@
     "topic_covered": [],
     "price": "$30",
     "ratings": "4.3"
+  },
+  {
+    "id": "6",
+    "categorie": "networking",
+    "titel": "Introduction to Computer Network",
+    "img": "https://classnotes.ng/wp-content/uploads/2020/04/internet-communication-classnotesng.jpg",
+    "des": "Computer network connects two or more autonomous computers. The computers can be geographically located anywhere. Computer networks have opened up an entire frontier in the world of computing called the client/server model. By choosing this course, you will come to know about the basics of computer networks, types of network models, Types of layers in each model, types of devices, types of networks and what is internet etc. You will also learn about the history of internet, history of these computer networks and who are the scientist involved in developing these technologies.",
+    "learn": [
+      "Introduction to computer networks",
+      "Learn about LANs and WANs",
+      "Understand OSI Model",
+      "Understand what is Physical Layer",
+      "Transmission media in Physical layer",
+      "Networking devices like switches"
+    ],
+    "requirments": ["Basic knowledge of Computer Hardware and Software."],
+    "topic_covered": [],
+    "price": "$30",
+    "ratings": "4.3"
   }
 ]
