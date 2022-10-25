@@ -111,7 +111,7 @@
       "Conversion of number systems",
       "Arithmetic operations",
       "Binary, decimal, octal, and hexadecimal numbers",
-      "Compliments of numbers ,"
+      "Compliments of numbers"
     ],
     "requirments": [
       "Candidate must have willingness and desire to learn the Digital Electronics to implement the knowledge in modern world."
@@ -119,5 +119,26 @@
     "topic_covered": [],
     "price": "$20",
     "ratings": "4.1"
+  },
+  {
+    "id": "5",
+    "categorie": "multimedia",
+    "titel": "Game Development",
+    "img": "https://www.arenaparkstreet.com/blog/wp-content/uploads/2021/05/Game-Development.png",
+    "des": "This is the long-awaited sequel to the Complete Unity Developer - one of the most popular e-learning courses on the internet! Completely re-worked from scratch with brand-new projects and our latest teaching techniques. You will benefit from the fact we have already taught over a million students programming and game development, many shipping commercial games as a result.Unity is an incredible 3D package used for making video games, architectural and medical imaging and more. The challenge is that it's big and complicated to use, especially for complete beginners to coding and game development. We make learning to code easy and fun by leading you step-by-step through the process of creating exciting games.Get plugged into our communities of amazing developers on Facebook (nearly 20k), in our own Teaching Assistant-curated Community, and our student Discord chat channel.This course has full professional-produced English closed-captions.If you're reading this you probably already have everything you need to get started. Unity is a free download. With regular access to an internet connection you'll be able to engage in our thriving community. Even if you have no experience with coding, or with 3D packages, we will guide you through everything from first principles. Starting slow, then building on what you learn, you'll soon have a very solid working knowledge of Unity.Don't take our word for it, please see the amazing reviews students have taken the time to write. We are proud to be transforming lives, and equipping 1000s of people with valuable new skills. We would love you to become one of them now.",
+    "learn": [
+      "Learn C# from scratch. A powerful modern language.",
+      "Gain an excellent general knowledge of video game design.",
+      "Transfer your knowledge to .NET, other languages, and more.",
+      "Make 2.5D and 3D games in Unity",
+      "Practical exercises EVERY VIDEO to build actual skills."
+    ],
+    "requirments": [
+      "PC or Mac capable of running Unity 2017 or later.",
+      "Regular internet access for Q&A and community."
+    ],
+    "topic_covered": [],
+    "price": "$30",
+    "ratings": "4.3"
   }
 ]
